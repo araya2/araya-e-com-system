@@ -16,7 +16,7 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>E-Com System 2.0.1 fixed bug (update-label-cart-button) (add grid ui) </h1>
+      <h1>E-Com System 7.0.0 Test CI (Workflows) </h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
